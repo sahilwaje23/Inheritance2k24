@@ -31,9 +31,9 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 
 #### Front-end
 
+- React
 - Tailwind
 - JavaScript
-- React
 - MaterialUI
 
 #### Back-end
