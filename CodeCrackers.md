@@ -6,7 +6,7 @@ SafarMitra is a taxi pooling app designed to make travel more affordable and con
 
 SafarMitra is exclusively designed for college students who want to share taxis for daily commutes, reducing travel costs while ensuring a comfortable and secure ride.
 
-Let me know if you need any changes! 🚀
+
 
 <details>
 <summary>Table of Contents</summary>
